@@ -6,6 +6,10 @@ namespace StatePattner.Estados
     {
         public void AplicarDesconto(Orcamento o)
         {
+            if (o.contadorDesconto > 0)
+            {
+                throw new Exception("O orçamento ja teve o valor descontado");
+            }
             o.Valor -= o.Valor * 0.02;
         }
 
