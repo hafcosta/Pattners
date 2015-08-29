@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Deco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{433C172C-813F-4B8D-BADA-BF6BE155437F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePattner", "StatePattner\StatePattner.csproj", "{482CF008-1EB8-4229-816F-7F178D96F8DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{433C172C-813F-4B8D-BADA-BF6BE155437F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{433C172C-813F-4B8D-BADA-BF6BE155437F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{433C172C-813F-4B8D-BADA-BF6BE155437F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{482CF008-1EB8-4229-816F-7F178D96F8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{482CF008-1EB8-4229-816F-7F178D96F8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{482CF008-1EB8-4229-816F-7F178D96F8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{482CF008-1EB8-4229-816F-7F178D96F8DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
