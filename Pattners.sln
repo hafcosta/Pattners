@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePattner", "StatePattne
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattner", "BuilderPattner\BuilderPattner.csproj", "{42331D94-06BC-4A45-B8D0-67863D4EBA94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattner", "ObserverPattner\ObserverPattner.csproj", "{2AF11AFC-CFC5-46D7-9396-5103707709D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{42331D94-06BC-4A45-B8D0-67863D4EBA94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42331D94-06BC-4A45-B8D0-67863D4EBA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42331D94-06BC-4A45-B8D0-67863D4EBA94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF11AFC-CFC5-46D7-9396-5103707709D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF11AFC-CFC5-46D7-9396-5103707709D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF11AFC-CFC5-46D7-9396-5103707709D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF11AFC-CFC5-46D7-9396-5103707709D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
