@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePattner", "StatePattner\StatePattner.csproj", "{482CF008-1EB8-4229-816F-7F178D96F8DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattner", "BuilderPattner\BuilderPattner.csproj", "{42331D94-06BC-4A45-B8D0-67863D4EBA94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{482CF008-1EB8-4229-816F-7F178D96F8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{482CF008-1EB8-4229-816F-7F178D96F8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{482CF008-1EB8-4229-816F-7F178D96F8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42331D94-06BC-4A45-B8D0-67863D4EBA94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42331D94-06BC-4A45-B8D0-67863D4EBA94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42331D94-06BC-4A45-B8D0-67863D4EBA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42331D94-06BC-4A45-B8D0-67863D4EBA94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
